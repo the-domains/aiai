@@ -1,3 +1,4 @@
+layout_spectrum: 0.2166370910126716
 typography_spectrum: 0.9433503760956228
 color:
   brandStrength: 0.5540122846141458
@@ -5,15 +6,9 @@ color:
   saturation: 0.7038689029868692
   rhythmicContrast: 0.7955248802900314
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
-layout_spectrum: 0.2166370910126716
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5b05fd66-7783-4c1b-ac62-4442d0187473.png
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
 name: AIAI
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/702103ea-c186-4b7d-98a5-15611439c8ba.ico
-title: AIAI
